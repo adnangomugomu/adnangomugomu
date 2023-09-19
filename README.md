@@ -29,10 +29,10 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 - PHP Laravel
 - Python Django
 - Node (Nest JS)
-- MySql
+- MYSQL
 - Docker
 - Nginx & Linux
-- Html, css, javascript
+- HTML, CSS, JAVASCRIPT
 
 <br>
 
@@ -107,20 +107,20 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 ## Popular Projects
 
 <p align="center">
-  <a href="https://github.com/adnangomugomu/baseci4">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=baseci4&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/portofolio">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=portofolio&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/adnangomugomu/webgis">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=webgis&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/kuisioner-sma">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=kuisioner-sma&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/adnangomugomu/baseci">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=baseci&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/laravel-gudang">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=laravel-gudang&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/adnangomugomu/foodblog">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=foodblog&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/server-transfer-file">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=server-transfer-file&theme=material-palenight" />
   </a>
 </p>
 
@@ -130,129 +130,4 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 <br>
 <br>
 
-
-
-
-
-<!-- --- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-<br>
-
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://github.com/adnangomugomu/adnangomugomu/blob/output/github-contribution-grid-snake.gif)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<br>
-<div align='left'>
-
-<ul>
-
-  <li>
-    <a href="https://www.facebook.com/" target="_blank" title="Facebook">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://github.com/adnangomugomu" target="_blank" title="Github">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://gitlab.com/adnangomugomu" target="_blank" title="Gitlab">
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://www.instagram.com/rid1bdbx/" target="_blank" title="Instagram">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://www.linkedin.com/in/ridwan-renaldi" target="_blank" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://www.tiktok.com/" target="_blank" title="Tiktok">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://twitter.com/" target="_blank" title="Twitter">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </li>
-    
-</ul>
-</div>
-
-<br>
-
-
-
-
-
-<!-- --- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-<br>
-<br>
-
-<div align='center'>
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<b>✨السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ✨ </b>
-
-</div>
-<br>
-<br>
-
-
-<div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading</p>
-</div>
-
-
-<h2 align='center'>Thank You!!!!!</h2>
-<br>
-<br>
-
-
-
-
-
-
-<!-- --- -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-Credit: [Ridwan Renaldi](https://github.com/adnangomugomu)
-
-Last Edited on: 01/01/2023
+Last Edited on: 20/09/2023
