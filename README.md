@@ -20,7 +20,7 @@
 Saya seorang <b>Backend Engineer / Fullstack Programmer</b>. Saya sangat tertarik untuk mempelajari hal baru seputar teknologi. 
 Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 </p>
-	
+ 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skill Saya</b>
 
 <br>
@@ -35,6 +35,7 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 - HTML, CSS, JAVASCRIPT
 
 <br>
+<br>
 
 <div align="center">
 
@@ -43,7 +44,6 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 
 </div>
 
-<br>
 <br>
 <br>
 
@@ -64,9 +64,6 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 
 <br>
 <br>
-<br>
-
-
 
 <!-- --- -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -83,18 +80,10 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
   <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adnangomugomu&layout=compact&theme=material-palenight" />
 </a>
 
-
 </div>
 
 <br>
 <br>
-<br>
-
-
-
-
-
-
 
 <!-- --- -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -126,7 +115,6 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 
 </div>
 
-<br>
 <br>
 <br>
 
