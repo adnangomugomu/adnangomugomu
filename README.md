@@ -10,9 +10,9 @@
 
 <div align="center">
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ridwanrenaldi&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanrenaldi" /> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ridwanrenaldi" alt="ridwanrenaldi" /> 
-  <img src="https://img.shields.io/github/followers/ridwanrenaldi?label=Follow&style=social" alt="ridwanrenaldi" /> 
+  <img src="https://komarev.com/ghpvc/?username=adnangomugomu&label=Profile%20views&color=0e75b6&style=flat" alt="adnangomugomu" /> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=adnangomugomu" alt="adnangomugomu" /> 
+  <img src="https://img.shields.io/github/followers/adnangomugomu?label=Follow&style=social" alt="adnangomugomu" /> 
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ Management Systems, Operating Systems
 <div align="center">
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanrenaldi&theme=algolia" alt="ridwanrenaldi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adnangomugomu&theme=algolia" alt="adnangomugomu" /></p>
 
 </div>
 
@@ -176,7 +176,7 @@ Management Systems, Operating Systems
 
 ## 🏆 Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanrenaldi&layout=compact&theme=algolia" alt="ridwanrenaldi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnangomugomu&layout=compact&theme=algolia" alt="adnangomugomu" /></a> </p>
 
 </div>
 
@@ -199,9 +199,9 @@ Management Systems, Operating Systems
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Analytics
 
-<a href="https://github.com/ridwanrenaldi">
-  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ridwanrenaldi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
-  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ridwanrenaldi&layout=compact&theme=material-palenight" />
+<a href="https://github.com/adnangomugomu">
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnangomugomu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adnangomugomu&layout=compact&theme=material-palenight" />
 </a>
 
 
@@ -228,20 +228,20 @@ Management Systems, Operating Systems
 ## Popular Projects
 
 <p align="center">
-  <a href="https://github.com/ridwanrenaldi/baseci4">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=baseci4&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/baseci4">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=baseci4&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/ridwanrenaldi/webgis">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=webgis&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/webgis">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=webgis&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/ridwanrenaldi/baseci">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=baseci&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/baseci">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=baseci&theme=material-palenight" />
   </a>
 
-  <a href="https://github.com/ridwanrenaldi/foodblog">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ridwanrenaldi&repo=foodblog&theme=material-palenight" />
+  <a href="https://github.com/adnangomugomu/foodblog">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=adnangomugomu&repo=foodblog&theme=material-palenight" />
   </a>
 </p>
 
@@ -262,7 +262,7 @@ Management Systems, Operating Systems
 <br>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://github.com/ridwanrenaldi/ridwanrenaldi/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/adnangomugomu/adnangomugomu/blob/output/github-contribution-grid-snake.gif)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -284,7 +284,7 @@ Management Systems, Operating Systems
   <br>
 
   <li>
-    <a href="https://github.com/ridwanrenaldi" target="_blank" title="Github">
+    <a href="https://github.com/adnangomugomu" target="_blank" title="Github">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
   </li>
@@ -292,7 +292,7 @@ Management Systems, Operating Systems
   <br>
 
   <li>
-    <a href="https://gitlab.com/ridwanrenaldi" target="_blank" title="Gitlab">
+    <a href="https://gitlab.com/adnangomugomu" target="_blank" title="Gitlab">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/>
     </a>
   </li>
@@ -374,6 +374,6 @@ Management Systems, Operating Systems
 
 <br>
 
-Credit: [Ridwan Renaldi](https://github.com/ridwanrenaldi)
+Credit: [Ridwan Renaldi](https://github.com/adnangomugomu)
 
 Last Edited on: 01/01/2023
