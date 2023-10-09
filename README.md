@@ -25,14 +25,17 @@ Dan saya tidak menutup diri atau saya selalu terbuka untuk belajar hal baru.
 
 <br>
 
-- PHP Codeigniter
-- PHP Laravel
-- Python Django
-- Node (Nest JS)
+- Golang
+- Laravel
+- Codeigniter
+- Django
+- Nest JS
+- Vue JS
 - MYSQL
 - Docker
 - Nginx & Linux
 - HTML, CSS, JAVASCRIPT
+- Leaflet JS
 
 <br>
 <br>
